@@ -3,14 +3,14 @@
     <data noupdate="1">
         <record id="attachment_1" model="ir.attachment">
           <field name="name">iPad Mini 1</field>
-          <field name="datas" type="base64" file="website_multi_image/static/img/ipad.png"/>
+          <field name="datas" type="base64" file="website_multi_image_irattachment/static/img/ipad.png"/>
           <field name="product_tmpl_id" ref="product.product_product_6_product_template"/>
           <field name="res_id" ref="product.product_product_6_product_template"/>
           <field name="res_model">product.template</field>
         </record>
         <record id="attachment_2" model="ir.attachment">
           <field name="name">iPad Mini 2</field>
-          <field name="datas" type="base64" file="website_multi_image/static/img/iPadMini-2.png"/>
+          <field name="datas" type="base64" file="website_multi_image_irattachment/static/img/iPadMini-2.png"/>
           <field name="product_tmpl_id" ref="product.product_product_6_product_template"/>
           <field name="res_id" ref="product.product_product_6_product_template"/>
           <field name="res_model">product.template</field>
